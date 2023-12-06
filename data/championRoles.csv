@@ -1,16 +1,16 @@
-champion	id	winrate.0-25	winrate.25-30	winrate.30-35	winrate.35-40	winrate.40+
-Aatrox	266	51.23	49.21	49.35	49.03	48.42
-Ahri	103	50.12	49.91	48.71	48.74	48.13
-Akali	84	52.07	48.4	49.4	48.54	47.13
-Alistar	12	48.6	50.74	51.5	51.45	50.08
-Amumu	32	47.73	48.66	50.19	51.37	51.07
-Anivia	34	53.58	54.38	50.34	48.78	47.37
-Annie	1	46.81	51.8	54.38	55.53	56.05
-Ashe	22	51.88	52.16	50.84	50.65	50.01
-AurelionSol	136	43.07	49.67	54.65	56.4	57.62
-Azir	268	41.3	45.61	48.06	49.22	50.41
-Bard	432	51.41	51.38	51.31	51.43	48.76
-Blitzcrank	53	53.65	50.76			
+champion	id	
+Aatrox	266	
+Ahri	103	
+Akali	84	
+Alistar	12	
+Amumu	32	
+Anivia	34	
+Annie	1	
+Ashe	22	
+AurelionSol	136	
+Azir	268	
+Bard	432	
+Blitzcrank	53			
 Brand	63					
 Braum	201					
 Caitlyn	51					
